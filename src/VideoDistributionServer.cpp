@@ -1,5 +1,11 @@
-//
-// Created by walke on 2/4/2022.
-//
-
 #include "VideoDistributionServer.h"
+
+#include <drogon/drogon.h>
+
+VideoDistributionServer::VideoDistributionServer() {
+
+}
+
+VideoDistributionServer::~VideoDistributionServer() {
+
+}

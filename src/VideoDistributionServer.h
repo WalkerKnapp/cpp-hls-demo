@@ -1,0 +1,14 @@
+//
+// Created by walke on 2/4/2022.
+//
+
+#ifndef CPP_HLS_DEMO_VIDEODISTRIBUTIONSERVER_H
+#define CPP_HLS_DEMO_VIDEODISTRIBUTIONSERVER_H
+
+
+class VideoDistributionServer {
+
+};
+
+
+#endif //CPP_HLS_DEMO_VIDEODISTRIBUTIONSERVER_H

@@ -1,12 +1,12 @@
 # cpp-hls-demo
 A small demo of a C++ program to stream video data to web clients, using Drogon and FFMpeg
 
-## Compiling
+## Requirements 
 
 ```shell
 sudo apt install git gcc g++ cmake \
                  libboost-all-dev \
-                 libavcodec-dev libavformat-dev \
+                 ffmpeg \
                  libjsoncpp-dev \
                  uuid-dev \
                  openssl libssl-dev \
